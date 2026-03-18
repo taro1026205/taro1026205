@@ -39,7 +39,6 @@
 </td>
 </tr>
 </table>
-
     srcset="https://raw.githubusercontent.com/taro1026205/taro1026205/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/taro1026205/taro1026205/output/github-contribution-grid-snake.svg"/>
