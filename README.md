@@ -5,7 +5,7 @@ to become an **AI Engineer** and **Data Scientist**.
 🔬 My interests span **Deep Learning**, **Machine Learning**,
 **Data Mining**, and **Generative AI** — fields where mathematics,
 engineering, and creativity converge to solve real-world problems.
-I work with tools like **TensorFlow**, **PyTorch**, **Weka**, and
+I work with tools like **Weka**, and
 **Jupyter** to turn ideas into experiments.
 
 🚀 Beyond model development, I care deeply about building
