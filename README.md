@@ -1,7 +1,7 @@
-## 👋 Hi! My full name is Hung Viet Nguyen, a Computer Science student at Bach Khoa University from Ho Chi Minh City (HCMUT). With a strong passion for technology, I am striving to become an AI Engineer and Data Scientist.
-## 🔬 My research interests include Deep Learning, Machine Learning, Data Science, Data Structures & Algorithms and Generative AI. I am amazed by how these fields blend mathematics, engineering and creativity to solve real-world problems.
-## 🚀 I'm passionate about bridging the gap between AI research and production-ready systems. My goal is to do more than just develop intelligent models; I want to build reliable, scalable infrastructures to serve millions of users.
-## 👍 My long-term goal is to become a versatile engineer, actively engage with the global AI community and drive impactful innovation with curiosity and persistence.
+## 👋 Hi, I'm Hung Viet Nguyen — a Computer Science student at Ho Chi Minh City University of Technology (HCMUT), working toward a career as an AI Engineer and Data Scientist.
+## 🔬 My research interests span Deep Learning, Machine Learning, Data Science, Algorithms, and Generative AI — fields where mathematics, engineering, and creativity converge to tackle meaningful real-world challenges.
+## 🚀 I'm driven by the challenge of bridging the gap between AI research and production-ready systems. Beyond building intelligent models, I focus on designing reliable, scalable infrastructures capable of serving millions of users.
+## 🌐 Long-term, I aim to grow into a versatile engineer who actively contributes to the global AI community — pushing the boundaries of innovation with curiosity, rigor, and persistence.
 
 ## 📊 GitHub Stats
 
