@@ -58,6 +58,7 @@ and persistence.
 </td>
 </tr>
 </table>
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/taro1026205/taro1026205/output/github-contribution-grid-snake-dark.svg"/>
