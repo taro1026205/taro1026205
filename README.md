@@ -22,16 +22,21 @@
 
 **🔬 AI & Data Science**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 <a href="https://jupyter.org">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </a>
-
+<a href="https://www.cs.waikato.ac.nz/ml/weka/">
+  <img src="https://img.shields.io/badge/Weka-00599C?style=for-the-badge&logo=data:image/png;base64,&logoColor=white"/>
+</a>
 <br/><br/>
 
 **🛠️ Database & Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,docker" />
+<img src="https://skillicons.dev/icons?i=postgres,docker,mongodb" />
+<a href="https://powerbi.microsoft.com">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</a>
 
 </td>
 <td>
