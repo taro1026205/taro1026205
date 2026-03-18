@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋 Hi! I'm Hung Viet Nguyen, a Computer Science student at Ho Chi Minh City University of Technology (HCMUT), aspiring to become an AI Engineer and Data Scientist.<br><br>🔬 My interests span Deep Learning, Machine Learning, Data Mining, and Generative AI — fields where mathematics, engineering, and creativity converge to solve real-world problems. I work with tools like Weka, and Jupyter to turn ideas into experiments.<br><br>🚀 Beyond model development, I care deeply about building production-ready systems — from structured data pipelines with PostgreSQL & MongoDB to containerized deployments with Docker and insight-driven dashboards with Power BI.<br><br>🌐 My long-term goal is to become a versatile engineer who bridges the gap between AI research and scalable infrastructure, actively contributing to the global tech community with curiosity and persistence.
+
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=AI+Engineer+%7C+Data+Scientist;Deep+Learning+%7C+Machine+Learning;Always+learning+new+things...)](https://git.io/typing-svg)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/viethung.subin) 
