@@ -43,10 +43,4 @@
 </td>
 </tr>
 </table>
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/taro1026205/taro1026205/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/taro1026205/taro1026205/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/taro1026205/taro1026205/output/github-contribution-grid-snake.svg"/>
-</picture>
+![3D Calendar](https://raw.githubusercontent.com/taro1026205/taro1026205/main/profile-3d-contrib/profile-night-rainbow.svg)
