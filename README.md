@@ -6,7 +6,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nvhung10605@gmail.com) 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=taro1026205&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=taro1026205&theme=graywhite&hide_border=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=taro1026205&theme=graywhite&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taro1026205&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <table>
@@ -18,20 +18,26 @@
 
 **🔬 AI & Data Science**
 <br/>
-<a href="https://jupyter.org">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</a>
-<a href="https://www.cs.waikato.ac.nz/ml/weka/">
-  <img src="https://img.shields.io/badge/Weka-00599C?style=for-the-badge&logo=data:image/png;base64,&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Weka-FF6600?style=for-the-badge&logoColor=white"/>
 <br/><br/>
 
 **🛠️ Database & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,docker,mongodb" />
-<a href="https://powerbi.microsoft.com">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</a>
+<img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </td>
 <td>
