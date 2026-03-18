@@ -39,17 +39,7 @@
 </td>
 </tr>
 </table>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=taro1026205&theme=graywhite&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=taro1026205&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/taro1026205/taro1026205/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/taro1026205/taro1026205/output/github-contribution-grid-snake.svg"/>
