@@ -9,7 +9,7 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=taro1026205&theme=graywhite&hide_border=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=taro1026205&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taro1026205&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=taro1026205&theme=graywhite&hide_border=false&count_private=false&layout=compact)
 <table>
 <tr>
 <td>
