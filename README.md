@@ -13,21 +13,29 @@
 <table>
 <tr>
 <td>
-## 🖥️ Languages
-![Python](https://skillicons.dev/icons?i=python,cpp,java)
+
+**🖥️ Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java" />
+
+<br/><br/>
+
+**🔬 AI & Data Science**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<a href="https://jupyter.org">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**🛠️ Database & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,docker" />
+
 </td>
 <td>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </td>
 </tr>
 </table>
-
-## 🔬 AI & Data Science
-![AI](https://skillicons.dev/icons?i=tensorflow,pytorch)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
-
-## 🛠️ Database & Tools
-![Tools](https://skillicons.dev/icons?i=postgres,docker)
-## 📧 Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nvhung10605@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
