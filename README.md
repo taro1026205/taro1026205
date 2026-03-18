@@ -13,7 +13,7 @@ I work with tools like **Weka**, and
 **PostgreSQL** & **MongoDB** to containerized deployments with
 **Docker** and insight-driven dashboards with **Power BI**.
 
-👍 My long-term goal is to become a **versatile engineer** who
+🌐 My long-term goal is to become a **versatile engineer** who
 bridges the gap between AI research and scalable infrastructure,
 actively contributing to the global tech community with curiosity
 and persistence.
