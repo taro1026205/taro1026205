@@ -7,9 +7,9 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nvhung10605@gmail.com) 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=taro1026205&theme=graywhite&hide_border=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=taro1026205&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taro1026205&theme=graywhite&hide_border=false&count_private=false&layout=compact)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=taro1026205&theme=graywhite&hide_border=false&count_private=false)<br/>
+![Streak](https://nirzak-streak-stats.vercel.app/?user=taro1026205&theme=graywhite&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taro1026205&theme=graywhite&hide_border=false&count_private=false&layout=compact)
 <table>
 <tr>
 <td>
