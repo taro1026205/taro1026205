@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
 <br/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Weka-FF6600?style=for-the-badge&logoColor=white"/>
 <br/><br/>
 
 **🛠️ Database & Tools**
