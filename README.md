@@ -4,7 +4,6 @@
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=AI+Engineer+%7C+Data+Scientist;Deep+Learning+%7C+Machine+Learning;Always+learning+new+things...)](https://git.io/typing-svg)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hùng-nguyễn-việt-a33a62387)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/viethung.subin) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nvhung10605@gmail.com) 
 
 ## 📊 GitHub Stats
